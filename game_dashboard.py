@@ -197,4 +197,3 @@ st.download_button(
     df.to_csv(index=False),
     "filtered_games.csv"
 )
-

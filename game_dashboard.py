@@ -41,7 +41,7 @@ body {
 """, unsafe_allow_html=True)
 
 # ---------- PATH ----------
-PATH = r"C:\new 121\best_selling_video_games.csv"
+PATH = "best_selling_video_games.csv"
 
 # ---------- LOAD ----------
 @st.cache_data
